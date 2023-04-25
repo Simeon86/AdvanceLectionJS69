@@ -1,0 +1,1 @@
+[{"user":"Simeon","permissions":3},{"user":"Kaloyan","permissions":1},{"user":"Valeria","permissions":1}]
